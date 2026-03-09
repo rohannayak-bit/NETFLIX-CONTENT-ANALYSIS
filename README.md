@@ -1,5 +1,5 @@
 # NETFLIX-CONTENT-ANALYSIS
-# Netflix Content Analysis Case Study
+Netflix Content Analysis Case Study
 
 # Project Overview
 
