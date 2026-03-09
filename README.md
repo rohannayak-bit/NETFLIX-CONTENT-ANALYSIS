@@ -80,5 +80,6 @@ Possible next steps for further analysis:
 
 # Author
 
-Rohan Nayak
-Data Analysis Project
+Name: Rohan Nayak
+
+project: Data Analysis case study- Netflix
