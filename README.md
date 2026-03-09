@@ -12,6 +12,7 @@ The analysis focuses on identifying patterns in Netflix’s content expansion, r
 
 # Dataset
 insights and case-study file: NETFLIX_casestudy.ipynb 
+
 Records data file: Netfix_data.csv
 
 ---
