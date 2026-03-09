@@ -1,6 +1,6 @@
 # NETFLIX-CONTENT-ANALYSIS
-Netflix Content Analysis using Python to explore trends in movies and TV shows. The project performs exploratory data analysis (EDA) to identify content growth, release patterns, and key contributors such as actors and directors.
-# Netflix Content Analysis Case Study
+Netflix Content Analysis Case Study
+# Netflix Content Analysis using Python to explore trends in movies and TV shows. The project performs exploratory data analysis (EDA) to identify content growth, release patterns, and key contributors such as actors and directors.
 
 # Project Overview
 
